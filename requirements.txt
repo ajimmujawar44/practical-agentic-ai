@@ -1,0 +1,9 @@
+agno
+groq
+ddgs
+python-dotenv
+requests
+yfinance
+streamlit
+langchain-ollama
+duckduckgo-search
